@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyst and Data Scientist opportunities
 - 🌱 I’m currently pursuing Masters in Data Analytics Engineering
 - 💞️ I’m looking to collaborate on Data Mining projects using Python and R
-- 📫 How to reach me ssyamala@gmu.edu
+- 📫 How to reach me atchuth1997@gmail.com
 
 <!---
 Atchuth12/Atchuth12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
